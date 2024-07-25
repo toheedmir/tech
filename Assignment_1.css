@@ -1,0 +1,23 @@
+p::first-line{
+    color:black;
+    font-size: 40px;
+}
+h2{ text-align: center;
+    color: #000;background-color:rgb( 20, 40, 154,0.4)
+}
+ol{
+    color: #8a41ff;
+}
+h1{color:white;
+    background-color:rgb(40, 60, 180,0.9);
+    text-align: center;
+}
+.toheed:hover::first-line{
+    background-color: aqua;
+    color: gold;
+    font-size: 30px;
+}
+.toheedmir:hover::first-line{
+    background-color: #8a41ff;
+    color: blue;
+}
